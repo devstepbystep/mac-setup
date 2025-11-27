@@ -25,4 +25,4 @@ In Terminal->Settings either choose an existing profile or hit + at the bottom o
 
 Make any changes you woul like and hit the "default" button at the bottom of the list
 
-This will become the default profile when you open terminal next time
+This will become the default profile when you open terminal next time.
