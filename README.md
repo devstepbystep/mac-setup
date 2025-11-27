@@ -1,4 +1,6 @@
-Apple Mac Setup Script for All "devstepbystep" courses
+Apple Mac Setup
+
+A generic setup playlist showing you how to setup your Mac for all "devstepbystep" courses.
 
 Course on Playlist on YouTube :
 
