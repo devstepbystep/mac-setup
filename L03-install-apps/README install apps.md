@@ -10,7 +10,7 @@ nano install-apps.sh
 
 For information about the casks and formulae in the script you can search for them here
 
-- https://formulae.brew.sh/
+https://formulae.brew.sh/
 
 Remove any casks (UI applications) or formulae (command line tools) not required for your course, or which you already have installed.
 
